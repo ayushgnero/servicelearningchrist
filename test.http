@@ -1,0 +1,15 @@
+POST http://localhost:4000/Register
+Content-Type: application/json
+
+{
+    "name":"Max",
+    "regno":"1861047",
+    "Class":"6th",
+    "role":"Student",
+    "password":"1234",
+    "gender":"Male",
+    "address":"#402 Omaxe, Silver Birch",
+    "phone":"9878201084",
+    "city":"Chandigarh",
+    "bitrthdate":"17th October, 1999"
+}
